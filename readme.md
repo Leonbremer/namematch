@@ -1,7 +1,3 @@
-<title>
-	Readme: namematch
-</title>
-
 # Readme - Fuzzy name matching
 
 ## The algorithm
