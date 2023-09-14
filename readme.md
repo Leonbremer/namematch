@@ -22,7 +22,7 @@ The algorithm is applied to matching the Amadeus Financials database and the Ama
 
 ## The code
 
-The code is a work in progress. Unfortunately I cannot share the data of the application. Also, the module parameters.py contains personal paths to files. When interested in replication one should create their own file with path information.
+The code is a work in progress. Unfortunately I cannot share the data of the application. The module parameters.py contains personal paths to files and is therefore omitted here.
 
 ## Accompanying article and referencing
 
